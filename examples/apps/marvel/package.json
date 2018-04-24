@@ -1,0 +1,15 @@
+{
+	"name": "alexa-marvel-skill",
+	"version": "0.0.1",
+	"description": "Ask Alexa about the marvel comics characters",
+	"main": "index.js",
+	"scripts": {
+		"start": "node examples/apps/marvel/index.js"
+	},
+	"dependencies": {
+		"alexa-app": "^2.3.2",
+		"lodash": "^4.3.0",
+		"request-promise": "^2.0.0",
+		"node-wikia": "^0.0.3"
+	}
+}

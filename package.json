@@ -1,0 +1,19 @@
+{
+	"name": "alexa-marvel-skill",
+	"version": "0.0.1",
+	"description": "Ask Alexa about the marvel comics characters",
+	"scripts": {
+		"start": "node examples/server"
+	},
+	"author": "Ouadie LAHDIOUI",
+	"dependencies": {
+		"alexa-wikia-app-server": "^2.3.4"
+	},
+  "license": "MIT",
+  "keywords": [
+    "alexa",
+    "amazon",
+    "echo",
+    "skills"
+  ]
+}
